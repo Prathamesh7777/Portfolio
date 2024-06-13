@@ -1,0 +1,103 @@
+.nav{
+    border-width: 1px;
+    border-style:solid;
+    border-color: black;
+    display:flex;
+    background-color: rgb(213 0 255 / 25%);
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+  
+  
+}
+.nav1
+{
+    display: flex;
+    align-items: center;
+    width: 60%;
+    justify-content: space-evenly;
+    
+}
+.image1
+{display: flex;
+  margin-right: 100;
+  height: 80vh;
+  justify-content: space-evenly;
+  text-align: justify;
+  align-items: center;
+
+}
+#h3:hover{
+  background-color: rgb(148, 52, 212);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+}
+#h2{
+  margin: 10px;
+}
+.skill{
+  border-radius: 3px;
+  background-color: #80808038;
+}
+#skillf{
+  font: bold;
+  background-color: #8a2be28a;
+  margin: 0;
+  padding: 5px;
+  border-radius: 4px;
+}
+#sub{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  font-size: 20px;
+  font-style: italic;
+ 
+}
+li{
+  padding: 10px;
+}
+.Education{
+  background-color:#80808038 ;
+  border-radius: 5px;
+}
+#Eduid{
+  font: bold;
+  background-color: #8a2be28a;
+  margin: 0;
+  padding: 5px;
+  border-radius: 4px;
+
+}
+.Eduli{
+ width: 90vw;
+}
+#Eduid1{
+  display: flex;
+  justify-content: space-between;
+}
+.Exp{
+  background-color:#80808038 ;
+  border-radius: 5px;
+}
+#Expid{
+  
+  background-color: #8a2be28a;
+  margin: 0;
+  padding: 5px;
+  border-radius: 4px;
+}
+.contact{
+  border-radius: 5px;
+  background-color:#80808038 ;
+}
+
+.contact1{
+  background-color: aqua;
+  width: 50%;
+  margin: 10%git add README.md;
+}
+.Social{
+  display: flex;
+  justify-content: center;
+}
