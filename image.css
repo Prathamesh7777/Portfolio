@@ -93,11 +93,11 @@ li{
 }
 
 .contact1{
-  background-color: aqua;
-  width: 50%;
-  margin: 10%git add README.md;
+ display: flex;
+ justify-content: center;
 }
 .Social{
-  display: flex;
+  
   justify-content: center;
+  font-size: 25px;
 }
