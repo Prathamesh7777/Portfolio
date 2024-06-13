@@ -3,7 +3,7 @@
     border-style:solid;
     border-color: black;
     display:flex;
-    background-color: rgb(213 0 255 / 25%);
+    background-color: #8a2be28a;
     justify-content: space-between;
     align-items: center;
     border-radius: 5px;
@@ -95,9 +95,9 @@ li{
 .contact1{
  display: flex;
  justify-content: center;
+ padding: 25px;
 }
 .Social{
   
-  justify-content: center;
   font-size: 25px;
 }
